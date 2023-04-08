@@ -1,4 +1,4 @@
-pip install bs4
+!pip install bs4
 import pandas as pd
 import requests
 import base64
