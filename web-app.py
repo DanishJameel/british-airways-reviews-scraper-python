@@ -1,4 +1,4 @@
-import bs4
+
 import pandas as pd
 import requests
 import base64
