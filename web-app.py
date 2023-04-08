@@ -1,6 +1,8 @@
+pip install bs4
 import pandas as pd
 import requests
 import base64
+
 from bs4 import BeautifulSoup
 import streamlit as st
 
